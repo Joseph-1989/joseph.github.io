@@ -12,7 +12,7 @@ remote_theme: pages-themes/minimal@v0.2.0
 github:
   is_user_page: false
   is_project_page: false
-  owner: yakhyo
+  owner: Joseph-1989
 
 plugins:
   - jekyll-remote-theme
