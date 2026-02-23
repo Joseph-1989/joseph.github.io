@@ -1,94 +1,88 @@
-[GitHub 🐱‍💻](https://github.com/yakhyo) | [Google Scholar 📚](https://scholar.google.com/citations?user=I66QbJIAAAAJ&hl=en) | [StackOverflow 🖥️](https://stackoverflow.com/users/14815986/yakhyo) | [LeetCode 🧩](https://leetcode.com/y_valikhujaev) | [LinkedIn 🔗](https://www.linkedin.com/in/y-valikhujaev/)
+[Email](mailto:khasanovakmal775@gmail.com) | [Telegram](https://t.me/joseph_891694) | [Portfolio](https://www.canva.com/design/DAGO0U9z5Us/e16QE7oXzPT4yasHcsDF-w/view) | [Resume PDF](https://drive.google.com/file/d/1rSKC1SsKPcFvj15-6GQIXu2ItBhCBB2R/view)
 
-## ML Software Engineer 🤖
+## Full Stack Developer & DevOps Engineer
 
-Passionate ML/DL/CV/NLP Engineer with ~4 years of industrial and 2+ years of academic experience delivering
-impactful solutions across various industries. Proficient in supervised, self-supervised, and transfer learning, with in-depth
-experience in OCR, object detection, segmentation, tracking, video recognition, and action classification.
+Experienced Full Stack Developer with 3+ years of hands-on work building scalable backend services,
+real-time applications, and modern frontend systems. Strong background in Node.js/NestJS, GraphQL,
+React/Next.js, and production deployment with Docker, NGINX, AWS, and Firebase.
 
-Skilled in developing and deploying machine learning models on AWS and GCP, building and optimizing pipelines, containerization,
-and collaborating with cross-functional teams to drive business growth.
+Focused on performance optimization, secure API design, monorepo architecture, and delivery speed
+across mobile/web products.
 
-## Skills Summary 🛠️
+## Contact
 
-- **Programming Languages:** Python, C/C++, Java.
-- **Database Management:** MySQL, PostgreSQL, PySpark.
-- **ML:** Numpy, Scikit-learn, PyTorch, PyTorch Lightning, Tensorflow, Keras, HuggingFace, Transformers, RAG, LangChain.
-- **MLOps:** Docker-compose, Dockerization, Kubeflow, MLFlow, Flask, Fast API, gRPC, TorchServe, Triton, TensorRT.
-- **Development Tools:** Git/Github, Docker, CI & CD.
-- **Cloud:** AWS EC2, GCP.
-- **Main Competencies:** Object Detection, Object Tracking, OCR, Clustering, Re-Identification, Medical Imaging, Image Restoration & Enhancement, DeepFakes, Generative Models, Vision-Language Models, Large-Language Models, Natural Language Processing, Building End-to-End Pipelines, Deployment Pipelines, GCP Deployment.
+- **Name:** Akmal Khasanov
+- **Phone:** +82 10 5719 0477
+- **Email:** khasanovakmal775@gmail.com
+- **Telegram:** @joseph_891694
+- **Location:** Tashkent, Uzbekistan
 
-## Work Experience 💼
+## Skills Summary
 
-### ML Engineer 🧠
+- **Languages:** JavaScript, TypeScript, PHP, SQL, HTML, CSS.
+- **Frontend:** React, Next.js, Redux, React Query, Tailwind CSS, Material UI, Bootstrap, jQuery.
+- **Backend:** Node.js, NestJS, GraphQL, REST API, WebSocket, Socket.IO, Express.js.
+- **Databases:** PostgreSQL, MySQL, MongoDB, Firebase DB.
+- **DevOps & Infra:** Docker, Docker Compose, PM2, NGINX, AWS EC2, Google Cloud, Linux (Ubuntu), UFW.
+- **Tools:** Git, GitHub, Yarn, npm, NVM, Figma, Shell scripting.
 
-**[Aria Studios Co. Ltd](https://showaria.com/)** | **March 2024 - Present**
+## Work Experience
 
-- **In-cabin Companion**: Developed an in-cabin assistant utilizing large language models (LLMs) to enhance the driving experience. The system integrates multiple models for user interaction, including [face identification](https://github.com/yakhyo/face-reidentification), [gender and age estimation](https://github.com/yakhyo/facial-analysis), and emotion recognition. These features facilitate personalized conversations with the driver. For speech-to-text functionality, the **whisper** model was employed. Deployed all services using Fast API on GCP and local machine.
-- **LG Ground 220**: Designed and implemented the AI backend for MusicStudio and DJingStudio, enabling features such as lyrics generation from user input, cover image creation, and music generation using OpenAI, StabilityAI, and MixAudio APIs. Leveraged **LangChain** and concurrent programming to optimize API calls and reduce latency. Can be seen [here](https://www.youtube.com/shorts/rkDN3T3bmQE).
-- **Data collection tool for Virtual Character**: Developed a user interface that simulates a virtual character with predefined characteristics. The data collection team interacts with virtual character to gather additional data for fine-tuning a large language model (LLM). The tool is deployed on Google Cloud Platform (GCP) using FastAPI, with PostgreSQL used to store the collected data.
-- **GPT Fine-tuning**: Fine-tuned the GPT-3.5-turbo model on conversation data of a virtual character to build a custom API for the virtual assistant. Performed several data augmentations using the OpenAI API for paraphrasing conversations.
-- **LLMs Deployment**: Deployed a lightweight Phi-3 model for emotion detection from text on GCP using FastAPI and prepared a deployment container. The main objective was to detect users' emotions while interacting with a virtual character and responding accordingly.
-- **VLMs Deployment**: Developed an "eye" for a virtual character to see and understand its surroundings, enabling it to interact with users. Deployed the Phi-3-Vision model on GCP for this purpose.
-- **Face Parsing**: To improve face swapping performance, employed a Face Parsing model to segment the face. Enhanced model performance by modifying the feature extractor (backbone) and training strategy. Implementation can be found [here](https://github.com/yakhyo/face-parsing).
-- **Image enhancement & Face restoration & DeepFake**: Worked on image enhancement and face restoration to improve DeepFakes. Created a DeepFake video for KBS election process coverage. Can be seen [here](https://www.youtube.com/live/CGbvG8S7HHo?si=8j4R4-f5ICfz01GF).
+### Full Stack Developer
 
-### ML Engineer 🖥️
+**JEJECOMMS** | **October 2024 - Present**
 
-**[Pyler Co. Ltd](https://www.pyler.tech/)** | **July 2022 - September 2023**
+- Built backend infrastructure for iOS/Android social applications using **NestJS**, **GraphQL**, **PostgreSQL**, and **AWS**.
+- Implemented real-time features with **WebSocket** and **Socket.IO** for notifications and messaging.
+- Delivered a PHP + REST backend for mobility services with **MySQL**, **Firebase Cloud Messaging**, and dynamic links.
+- Improved API response speed by ~30% through TypeScript/NestJS architecture and optimization.
+- Reduced deployment time by ~20% using **Docker**, **Docker Compose**, and **PM2**.
+- Strengthened server security with firewall/security group/NGINX hardening, reducing unauthorized access attempts.
 
-- **Video-based Visual Content Moderation**: Built a Video Moderation Pipeline to flag inappropriate video content using video recognition models, achieving over a 10% improvement in model accuracy.
-- **Detection-based Visual Content Moderation**: Utilized segmentation and detection techniques to precisely detect unsuitable content for brand safety. Implemented state-of-the-art models in terms of real-time speed and efficiency, improving model precision and recall by around 15% through active learning techniques. Built an end-to-end pipeline on Kubeflow for training and deployment.
-- **Classification-based Visual Content Moderation**: Leveraged multi-label and multi-head classification techniques to improve precision by approximately 20% using self-supervised and supervised training approaches. This novel approach showcases the adaptability and efficacy of the model for hard samples. Prepared Docker images for each development and deployment environment (containerization).
-- **Model Assisted Labeling**: Created a pipeline for doing inference on existing labeled data and doing inference on unlabeled data. Improved labeling quality and speed using **Active Learning**.
+### Full Stack Developer & DevOps Engineer
 
-### AI Research Engineer 🧠
+**Innovatech Development** | **December 2023 - September 2024**
 
-**[D-Meta Co. Ltd](https://www.d-meta.ai/)** | **November 2020 - July 2022**
+- Managed monorepo systems containing GraphQL/REST services, batch jobs, and crawling services.
+- Improved API responsiveness by ~30% through TypeScript optimization in Node.js/NestJS pipelines.
+- Implemented caching and architecture patterns (MVC, DI, decorators), lowering server load.
+- Optimized deployments and orchestration with **Docker Compose**, **PM2**, **ShellJS**, and **NGINX**.
+- Built responsive frontend systems with **Next.js** (App Router/Pages Router), **React**, and Apollo/Axios.
+- Delivered real-time synchronization via WebSocket/Socket.IO subscriptions.
 
-- **Slab Text Recognition**: Developed and designed a text detection and recognition model to efficiently recognize handwritten texts on slab metals using Spatial Transformer Networks and Sequential modeling. Built a complete pipeline from data pre-processing to training and evaluation of the model. Achieved over 90% accuracy by integrating state-of-the-art detection and recognition models for scene text images.
-- **Automatic Number Plate Recognition**: Designed and developed an ANPR model to accurately detect and recognize number plates. Leveraged active learning and synthetic image generation techniques to improve precision and recall by around 15%.
-- **Car Damage Detection**: Built a lightweight damage detection model and deployed it on an Android device using TorchScript. Improved the precision of the model by around 10% by tuning the model parameters.
+### Full Stack Developer
 
-## Research Experience 📚
+**Ascensio System** | **July 2022 - October 2023**
 
-### Research Assistant 🧑‍🔬
+- Developed scalable backend services using **Node.js**, **TypeScript**, and **NestJS**.
+- Implemented GraphQL APIs, authentication/authorization (JWT, Bcrypt), and upload flows.
+- Designed and maintained MongoDB data models with Mongoose.
+- Built SPA interfaces with **React**, **TypeScript**, and state management via Redux/Context.
+- Added internationalization support with React-i18next and improved UX with animation/3D tooling.
+- Deployed and monitored production services using Docker, Grafana, NGINX, and Ubuntu VPS.
 
-**AI and SC Lab** | **Sep 2018 - Nov 2020**
+## Education
 
-- **Computer Vision based Fire and Smoke Detection**: Designed and implemented a dilated CNN architecture for improved feature extraction and recognition in images/videos. By carefully tuning and optimizing the model, achieved a high level of accuracy in fire and smoke detection, reducing false positives and achieving 1.5x faster inference speed compared to the fastest counterpart.
-- **Model Optimization for Edge Devices**: Improved the FPS on Edge device (Raspberry PI 2) by using hyper-parameter tuning and quantization for the detection model.
+| Institution | Degree | Year |
+| --- | --- | --- |
+| Dongseo University | Master's Degree (MBA) | 2023 |
+| University of Messina | Master's Degree (International Business Management) | 2020 |
+| Management Development Institute of Singapore in Tashkent | Bachelor's Degree (Banking and Finance) | 2014 |
+| University of Wales | Bachelor's Degree (Banking and Finance) | 2014 |
 
-## Education 🎓
+## Certifications
 
-| **Institution**                                 | **Degree**                                                                | **Duration**        |
-| ----------------------------------------------- | ------------------------------------------------------------------------- | ------------------- |
-| Gachon University                               | MSc in Computer Engineering; advised by Prof. Young Im Cho; CGPA: 4.0/4.5 | Sep 2018 - Feb 2021 |
-| Tashkent University of Information Technologies | BSc in Computer Engineering; CGPA(%): 85/100                              | Sep 2014 - Jun 2018 |
+- **KIIP Level 4** (Korean language and culture integration program), 2024
+- **TOPIK II Level 3**, 2023
+- **IELTS Band 7**, 2023
 
-## Publications 📝
+## Languages
 
-- **Valikhujaev Y**, Abdusalomov A, Cho YI. Automatic Fire and Smoke Detection Method for Surveillance Systems Based on Dilated CNNs. Atmosphere, **IF 2.9**. 2020; 11(11):1241. [https://doi.org/10.3390/atmos11111241](https://doi.org/10.3390/atmos11111241).
-- Muksimova SH, **Valikhujaev Y**, Cho YI. Automatic Fire and Smoke Detection System for Open Street CCTV Systems in Smart City Platforms. Korean Society of Information Scientists and Engineers, 412-414 pages, Domestic Conference.
-
-## Honors 🏆
-
-- **Best paper award** from Fire Investigation Society of Korea (FISK); (Domestic Conference, 2020)
-- **Best presentation award** from ISIS2019 & ICBAKE2019; (Domestic Conference, 2019)
-
-## Languages 🌐
-
-- **English:** Full Professional Proficiency (C1 Advanced, IELTS band 7)
-- **Korean:** Limited Working Proficiency (B1 Pre-Intermediate)
-- **Uzbek:** Native Proficiency
-- **Russian:** Limited Working Proficiency
+- **Uzbek:** Native
+- **Russian:** Proficient
+- **English:** Proficient
+- **Korean:** Advanced
 
 ---
 
-<br>
-_Last Updated: 2024-09-19_
-
-<code> Click below to download in .pdf format </code>
-
-<a href="https://github.com/yakhyo/yakhyo.github.io/releases/download/v0.0.1/yakhyo_cv.pdf"> <img src="assets/icons/download-pdf.png" width="128px"> </a>
+_Last Updated: 2026-02-23_
